@@ -4,17 +4,15 @@
 
 Submitted by: Andrew Paolo Solbjor
 
-Time spent: **X** hours spent in total
+Time spent: 1 hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+Debug-Paradise is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
 
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
 ## Application Features
-
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
 The following REQUIRED features are completed:
 
