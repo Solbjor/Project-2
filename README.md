@@ -1,16 +1,14 @@
-<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
-
 # AND101 Project 2 - Kotlin Debug-a-thon
 
 Submitted by: Andrew Paolo Solbjor
 
-Time spent: 1 hours spent in total
+Time spent: 2 hours spent in total
 
 ## Summary
 
-Debug-Paradise is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+Debug-Paradise is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: 🕵🏻👨‍🔧👍🏻
 
 ## Application Features
 
@@ -37,12 +35,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 ![](https://i.imgur.com/HumuRKm.gif)
 
-GIF created with **your chosen GIF tool**
-
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
+GIF created with ScreenToGif
 
 ## Notes
 
