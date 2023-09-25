@@ -39,7 +39,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I learned more about going through the various sections of android studio and different file types as well, which helped me get an idea of where specific code has to go for an app. 
 
 ## License
 
